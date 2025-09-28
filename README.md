@@ -54,16 +54,7 @@ The goal is to build a **multi-class text classification model** that categorize
   - matplotlib  
   - seaborn  
 
----
 
-## 📂 Repository Structure  
-
-consumer-complaint-classification/
-│── Consumer_Complaints_Classification.ipynb # Main Jupyter Notebook
-│── requirements.txt # Python dependencies
-│── README.md # Project description (this file)
-│── data/ # (Optional) dataset folder
----
 
 ## ⚙️ Installation  
 
