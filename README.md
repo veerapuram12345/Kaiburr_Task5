@@ -58,7 +58,11 @@ The goal is to build a **multi-class text classification model** that categorize
 
 ## 📂 Repository Structure  
 
-
+consumer-complaint-classification/
+│── Consumer_Complaints_Classification.ipynb # Main Jupyter Notebook
+│── requirements.txt # Python dependencies
+│── README.md # Project description (this file)
+│── data/ # (Optional) dataset folder
 ---
 
 ## ⚙️ Installation  
@@ -69,14 +73,16 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/consumer-complaint-classification.git
 cd consumer-complaint-classification
 pip install -r requirements.txt
+```
 
 🚀 Usage
 
 Run the Jupyter Notebook:
-
+```bash
 jupyter notebook Kaiburr_Task5.ipynb
+```
 
-📌 Dataset
+## 📌 Dataset
 
 The dataset is publicly available here:
 🔗 https://catalog.data.gov/dataset/consumer-complaint-database
